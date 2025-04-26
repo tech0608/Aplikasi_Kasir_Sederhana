@@ -1,0 +1,6 @@
+com\kasir\cetakstruk\CetakStruk.class
+com\kasir\transaksi\Transaksi.class
+com\kasir\cetakstruk\CetakStrukImpl.class
+com\kasir\model\Barang.class
+com\kasir\database\DatabaseManager.class
+com\mycompany\kasir\Main.class
